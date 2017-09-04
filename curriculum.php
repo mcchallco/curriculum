@@ -45,7 +45,7 @@
 							<tr>
 								<td><strong>E-mail:</strong></td>
 								<td></td>
-								<td>m.condori.ch92@gmail.com</td>
+								<td><?php echo 'm.condori.ch92@gmail.com'.' realizado con sintaxis PHP';?></td>
 							</tr>
 							<tr>
 								<td><strong>Nacimiento:</strong></td>
